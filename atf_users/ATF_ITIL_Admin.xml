@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2019-02-08 08:13:47">
+<sys_user action="INSERT_OR_UPDATE">
+<active>true</active>
+<agent_status/>
+<average_daily_fte/>
+<building display_value=""/>
+<calendar_integration>1</calendar_integration>
+<city/>
+<company display_value="CSC Internal">c94993314a362312005cfc20c1aa15d2</company>
+<cost_center display_value=""/>
+<country/>
+<date_format/>
+<default_perspective display_value=""/>
+<department display_value=""/>
+<edu_status>faculty</edu_status>
+<email>sagar.manay@dxc.com</email>
+<employee_number/>
+<enable_multifactor_authn>false</enable_multifactor_authn>
+<failed_attempts/>
+<first_name>ATF</first_name>
+<gender/>
+<geolocation_tracked>false</geolocation_tracked>
+<home_phone/>
+<internal_integration_user>false</internal_integration_user>
+<introduction/>
+<last_login/>
+<last_login_device>15.219.201.75</last_login_device>
+<last_login_time>2019-02-05 08:49:52</last_login_time>
+<last_name>ITIL_Admin</last_name>
+<last_password/>
+<last_position_update/>
+<latitude/>
+<ldap_server display_value=""/>
+<location display_value=""/>
+<locked_out>false</locked_out>
+<longitude/>
+<managed_domain>true</managed_domain>
+<manager display_value=""/>
+<middle_name/>
+<mobile_phone/>
+<name>ATF ITIL_Admin</name>
+<notification>2</notification>
+<on_schedule/>
+<password_needs_reset>false</password_needs_reset>
+<phone/>
+<photo/>
+<preferred_language>en</preferred_language>
+<roles/>
+<schedule display_value=""/>
+<source/>
+<sso_source/>
+<state/>
+<street/>
+<sys_class_name>sys_user</sys_class_name>
+<sys_created_by>sagar.manay@dxc.com</sys_created_by>
+<sys_created_on>2019-01-31 07:18:09</sys_created_on>
+<sys_domain>c01813fb6fb82100c5afed5dbb3ee479</sys_domain>
+<sys_domain_path>!!!/!!!/!!!/!!!/</sys_domain_path>
+<sys_id>1489b70e13172b005a6b785d5144b006</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>vijaya.kumar1@dxc.com</sys_updated_by>
+<sys_updated_on>2019-02-01 11:36:43</sys_updated_on>
+<time_format/>
+<time_sheet_policy display_value=""/>
+<time_zone/>
+<title/>
+<u_begin_date/>
+<u_correlation_id/>
+<u_employee_source/>
+<u_employee_type/>
+<u_end_date/>
+<u_workstyle display_value=""/>
+<user_name>ATF_ITIL_Admin</user_name>
+<user_password/>
+<vip>false</vip>
+<web_service_access_only>false</web_service_access_only>
+<zip/>
+</sys_user>
+</unload>
